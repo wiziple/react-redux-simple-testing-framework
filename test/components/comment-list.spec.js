@@ -1,4 +1,4 @@
-import { renderComponent, expect } from '../test_helper';
+import { renderComponent, expect } from '../test-helper';
 import CommentList from '../../src/components/comment-list';
 
 describe('CommentList', () => {
